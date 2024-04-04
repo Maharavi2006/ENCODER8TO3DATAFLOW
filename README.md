@@ -5,6 +5,7 @@
 To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
 **SOFTWARE REQUIRED:** 
+
 Quartus prime
 
 **THEORY**
@@ -36,6 +37,7 @@ Logical circuit of the above expressions is given below:
 Figure 02  Encoder 8 * 3
 
 **Procedure**
+
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
@@ -74,6 +76,6 @@ endmodule
 
 **RESULTS**
 
-Thus the code is ececuted successfully
+Thus the code is ececuted successfully.
 
 
